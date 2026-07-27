@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057474142828",
+    "project_id": "savorysync-1b531",
+    "storage_bucket": "savorysync-1b531.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057474142828:android:db1b8093b2e98e7229ae49",
+        "android_client_info": {
+          "package_name": "com.example.savorysync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz62QqqA18FOCmIbdWr9i4jj0RJEG0wtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
